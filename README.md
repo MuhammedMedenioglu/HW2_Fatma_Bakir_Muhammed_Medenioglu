@@ -15,7 +15,7 @@ A Flutter dashboard for three simulated devices. The light switch changes power 
 
 ## Run locally
 
-Open this folder in VS Code or Android Studio with Flutter 3.44.4 or later. Start an Android emulator or use Chrome for the web target.
+Use Flutter 3.47.6 on the stable channel (Dart 3.13.5). Open this folder in VS Code or Android Studio. Start an Android emulator or use Chrome for the web target.
 
 ```sh
 flutter pub get
