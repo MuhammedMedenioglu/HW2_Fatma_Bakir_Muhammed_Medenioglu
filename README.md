@@ -9,6 +9,10 @@ BIM493 Mobile Programming I · Assignment 2
 
 A Flutter dashboard for three simulated devices. The light switch changes power and displayed brightness, the thermostat buttons adjust the target between 16 °C and 30 °C, and the speaker button toggles playback status. The thermostat status compares the target with a simulated room temperature of 20 °C.
 
+## Android emulator screenshot
+
+![Smart Home Controller running on an Android emulator](screenshots/smart-home-controller-android.png)
+
 ## Run locally
 
 Open this folder in VS Code or Android Studio with Flutter 3.44.4 or later. Start an Android emulator or use Chrome for the web target.
